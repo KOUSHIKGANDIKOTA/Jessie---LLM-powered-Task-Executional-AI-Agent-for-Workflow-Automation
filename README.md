@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 **Overview**  
+## 📌 **Project Overview**  
 **JESSIE** is an AI-driven desktop assistant that combines **speech recognition, natural language understanding, and intelligent automation** to perform tasks dynamically. The system integrates **Large Language Models (LLMs), Selenium-based web automation, and PyQt5 GUI** for seamless human–AI interaction.  
 
 With JESSIE, users can:  
@@ -36,6 +36,4 @@ With JESSIE, users can:
 - **Data Storage**: JSON-based logging system  
 
 
-```bash
-git clone https://github.com/yourusername/jessie-ai-assistant.git
-cd jessie-ai-assistant
+
