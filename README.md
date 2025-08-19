@@ -7,11 +7,11 @@
 **JESSIE** is an AI-driven desktop assistant that combines **speech recognition, natural language understanding, and intelligent automation** to perform tasks dynamically. The system integrates **Large Language Models (LLMs), Selenium-based web automation, and PyQt5 GUI** for seamless human–AI interaction.  
 
 With JESSIE, users can:  
-- 🎤 Speak commands naturally (Speech-to-Text powered by Python speech libraries).  
-- 🌐 Automate web actions like **opening YouTube, searching Google, or playing videos**.  
-- 🤖 Get intelligent responses to **knowledge-based queries** using **LLMs + APIs**.  
-- 🖥️ Interact via a **clean PyQt5-based GUI**.  
-- 📂 Maintain logs of conversations in a **ChatLog.json file**.  
+- Speak commands naturally (Speech-to-Text powered by Python speech libraries).  
+- Automate web actions like **opening YouTube, searching Google, or playing videos**.  
+- Get intelligent responses to **knowledge-based queries** using **LLMs + APIs**.  
+- Interact via a **clean PyQt5-based GUI**.  
+- Maintain logs of conversations in a **ChatLog.json file**.  
 
 ---
 
