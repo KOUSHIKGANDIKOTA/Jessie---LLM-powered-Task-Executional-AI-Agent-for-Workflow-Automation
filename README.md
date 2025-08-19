@@ -35,11 +35,7 @@ With JESSIE, users can:
 - **Automation**: Selenium + ChromeDriver  
 - **Data Storage**: JSON-based logging system  
 
----
 
-## ⚙️ **Installation & Setup**  
-
-### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/yourusername/jessie-ai-assistant.git
 cd jessie-ai-assistant
