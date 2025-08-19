@@ -1,5 +1,5 @@
 # **JESSIE – Joint Execution System with Semantic Intelligence & Efficiency**  
-🚀 An **AI-powered virtual assistant** leveraging **LLMs, NLP, and automation** for human-like interactions, intelligent task execution, and workflow efficiency.  
+🚀 An **AI-powered Agent** leveraging **LLMs, NLP, and automation** for human-like interactions, intelligent task execution, and workflow efficiency. Inspired from JARVIS AI Agent.  
 
 ---
 
