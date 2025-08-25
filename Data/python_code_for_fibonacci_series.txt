@@ -1,0 +1,64 @@
+**Fibonacci Series in Python**
+=====================================
+
+The Fibonacci series is a series of numbers where a number is the sum of the two preceding ones, usually starting with 0 and 1.
+
+**Code**
+--------
+
+```python
+def fibonacci(n):
+    """
+    Generate the Fibonacci series up to the nth number.
+    
+    Parameters:
+    n (int): The number of terms in the series.
+    
+    Returns:
+    list: A list of Fibonacci numbers.
+    """
+    fib_series = [0, 1]
+    while len(fib_series) < n:
+        fib_series.append(fib_series[-1] + fib_series[-2])
+    return fib_series
+
+# Example usage
+n = 10
+print(fibonacci(n))
+```
+
+**Output**
+----------
+
+```
+[0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+```
+
+**Explanation**
+---------------
+
+1. The `fibonacci` function takes an integer `n` as input, which represents the number of terms in the series.
+2. The function initializes a list `fib_series` with the first two Fibonacci numbers, 0 and 1.
+3. The function enters a loop that continues until the length of `fib_series` reaches `n`.
+4. In each iteration, the function appends the sum of the last two numbers in `fib_series` to the end of the list.
+5. The function returns the completed Fibonacci series.
+
+**Alternative Implementation**
+---------------------------
+
+You can also use recursion to generate the Fibonacci series:
+
+```python
+def fibonacci_recursive(n):
+    if n <= 1:
+        return n
+    else:
+        return fibonacci_recursive(n-1) + fibonacci_recursive(n-2)
+
+# Example usage
+n = 10
+fib_series = [fibonacci_recursive(i) for i in range(n)]
+print(fib_series)
+```
+
+Note that the recursive implementation has a higher time complexity than the iterative implementation and may not be suitable for large values of `n`.
