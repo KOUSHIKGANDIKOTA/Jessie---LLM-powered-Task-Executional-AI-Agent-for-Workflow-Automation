@@ -1,10 +1,10 @@
 # **JESSIE – Joint Execution System with Semantic Intelligence & Efficiency**  
-🚀 An **AI-powered Agent** leveraging **LLMs, NLP, and automation** for human-like interactions, intelligent task execution, and workflow efficiency. Inspired from JARVIS AI Agent.  
+🚀 An **AI-powered Agent cum Assistant** leveraging **LLMs, NLP, and automation** for human-like interactions, intelligent task execution, and workflow efficiency. Inspired from JARVIS AI Agent.  
 
 ---
 
 ## 📌 **Project Overview**  
-**JESSIE** is an AI-driven desktop assistant that combines **speech recognition, natural language understanding, and intelligent automation** to perform tasks dynamically. The system integrates **Large Language Models (LLMs), Selenium-based web automation, and PyQt5 GUI** for seamless human–AI interaction.  
+**JESSIE** is an AI-driven desktop Agent cum assistant that combines **speech recognition, natural language understanding, and intelligent automation** to perform tasks dynamically. The system integrates **Large Language Models (LLMs), Selenium-based web automation, and PyQt5 GUI** for seamless human–AI interaction.  
 
 With JESSIE, users can:  
 - Speak commands naturally (Speech-to-Text powered by Python speech libraries).  
